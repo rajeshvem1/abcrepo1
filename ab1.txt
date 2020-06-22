@@ -1,1 +1,1 @@
-echo "fixinng the bug"
+echo "iam in trainning"
